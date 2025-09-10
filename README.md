@@ -1,2 +1,2 @@
 # testgr1290
-Test groupe 1290
+Test de l'utliisation de GitHub
